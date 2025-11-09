@@ -3,15 +3,15 @@ numero = +numero
 
 
 if (numero % 3 == 0 && numero % 5 == 0){
-    document.write("bingbong")
+    console.log("bingbong")
 }
 else if(numero % 5 == 0){
-    document.write("bong")
+    console.log("bong")
 }
 
 else if (numero % 3 == 0){
-    document.write("bing")
+    console.log("bing")
 }
 else{
-    document.write(numero)
+    console.log(numero)
 }

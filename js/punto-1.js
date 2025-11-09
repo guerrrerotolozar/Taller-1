@@ -13,4 +13,4 @@ let suma = +numero1 + +numero2  //para pasar el string a numero solo se le pone 
 
 console.log(suma) // vi uno de ponerlo en pantalla tambien y se ve bacano para evitar entrar a la consola en navegador
 
-document.write(suma)  // pero no se porque me tacha ese WRITE // aun asi sirve xd
+// document.write(suma)  // pero no se porque me tacha ese WRITE // aun asi sirve xd

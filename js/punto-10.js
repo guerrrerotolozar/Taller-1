@@ -13,5 +13,4 @@ for ( k of nums ){ // Revisa los valores de NUMS y guardalos en K <=_
     } // retoma el bucle y el espacio virtual en k se reinicia      __/
 }
 
-document.write(list)
 console.log(list)
